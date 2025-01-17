@@ -2,6 +2,7 @@ import cloudscraper
 import json
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from random import randint
 
 
 
@@ -82,15 +83,10 @@ def process_wallet(wallet: str, scraper: cloudscraper.CloudScraper) -> None:
                 points = data.get("result", {}).get("points", None)
 
                 if isinstance(points, (int, float)):
-                    if points < 200.0:
-                        print(f"{wallet} is not eligible (points: {points})")
-                    else:
-                        value = points * 5.5970149254
-                        print("-" * 110)
-                        print(f"[*]{wallet} is eligible (points: {points}, value: {value:.2f})")
-                        print("-" * 110)
-                        with total_tokens_lock:
-                            total_tokens += value
+                    value = points * 5.5970149254
+                    print(f"[*]{wallet} is eligible (points: {points}, value: {value:.2f})")
+                    with total_tokens_lock:
+                        total_tokens += value
                 else:
                     print(f"{wallet}: Unable to fetch points from the response.")
             except json.JSONDecodeError:
@@ -134,8 +130,8 @@ def main():
     potential_usd_05 = total_tokens * 0.05
     potential_usd_03 = total_tokens * 0.03
 
-    print(f"[*]Potential in USD if $0.05 per token: {potential_usd_05:.2f}$")
-    print(f"[*]Potential in USD if $0.03 per token: {potential_usd_03:.2f}$")
+    # print(f"[*]Potential in USD if $0.05 per token: {potential_usd_05:.2f}$")
+    # print(f"[*]Potential in USD if $0.03 per token: {potential_usd_03:.2f}$")
 
 if __name__ == "__main__":
     main()
