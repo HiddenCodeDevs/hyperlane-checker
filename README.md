@@ -3,21 +3,6 @@
 # Orbiter Checker by Aero25x
 
 
-
-
-```
-  
-  _    _ _     _     _             _____          _
- | |  | (_)   | |   | |           / ____|        | |
- | |__| |_  __| | __| | ___ _ __ | |     ___   __| | ___
- |  __  | |/ _` |/ _` |/ _ \ '_ \| |    / _ \ / _` |/ _ \
- | |  | | | (_| | (_| |  __/ | | | |___| (_) | (_| |  __/
- |_|  |_|_|\__,_|\__,_|\___|_| |_|\_____\___/ \__,_|\___|
-
-            Orbiter Checker by Aero25x
-            https://t.me/hidden_coding
-```
-
 ---
 
 ## Table of Contents
@@ -36,11 +21,6 @@
 - [Contact](#contact)
 
 ---
-
-
-
-![image](https://github.com/user-attachments/assets/f26b356c-007b-4f22-a053-3d48f09ce8d9)
-
 
 
 
@@ -226,7 +206,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 For support or inquiries, join our Telegram group:
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue.svg)](https://t.me/hidden_coding)
 
 ---
 
@@ -237,4 +216,19 @@ For support or inquiries, join our Telegram group:
 
 ---
 
+
+
 ```
+  
+  _    _ _     _     _             _____          _
+ | |  | (_)   | |   | |           / ____|        | |
+ | |__| |_  __| | __| | ___ _ __ | |     ___   __| | ___
+ |  __  | |/ _` |/ _` |/ _ \ '_ \| |    / _ \ / _` |/ _ \
+ | |  | | | (_| | (_| |  __/ | | | |___| (_) | (_| |  __/
+ |_|  |_|_|\__,_|\__,_|\___|_| |_|\_____\___/ \__,_|\___|
+
+            Orbiter Checker by Aero25x
+            https://t.me/hidden_coding
+```
+
+
