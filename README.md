@@ -61,7 +61,7 @@
 
    ```bash
    git clone https://github.com/Aero25x/orbiter-checker.git
-   cd orbiter-checker
+   cd hyperlane-checker
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
@@ -105,7 +105,7 @@
 2. **Run the Script**
 
    ```bash
-   python orbiter_checker.py
+   python hyperlane_checker.py
    ```
 
    **Sample Output:**
@@ -119,7 +119,7 @@
     | |  | | | (_| | (_| |  __/ | | | |___| (_) | (_| |  __/
     |_|  |_|_|\__,_|\__,_|\___|_| |_|\_____\___/ \__,_|\___|
 
-               Orbiter Checker by Aero25x
+               Hyperlane Checker by Aero25x
                https://t.me/hidden_coding
 
 
@@ -236,7 +236,7 @@ For support or inquiries, join our Telegram group:
  | |  | | | (_| | (_| |  __/ | | | |___| (_) | (_| |  __/
  |_|  |_|_|\__,_|\__,_|\___|_| |_|\_____\___/ \__,_|\___|
 
-            Orbiter Checker by Aero25x
+            Hyperlane Checker by Aero25x
             https://t.me/hidden_coding
 ```
 
