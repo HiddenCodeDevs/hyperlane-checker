@@ -9,7 +9,7 @@
 ![image_2025-01-17_18-38-47](https://github.com/user-attachments/assets/39d42d94-03f0-465c-b9fe-e2100eb616f1)
 
 
-# Orbiter Checker by Aero25x
+# HyperLane Checker by Aero25x
 
 
 ---
@@ -33,7 +33,7 @@
 
 
 
-**Orbiter Checker** is a Python-based tool designed to verify and process a list of cryptocurrency wallet addresses against the Orbiter Finance API. It checks each wallet's eligibility based on their points and calculates the potential token value based on predefined rates.
+**HyperLane Checker** is a Python-based tool designed to verify and process a list of cryptocurrency wallet addresses against the HyperLane Finance API. It checks each wallet's eligibility based on their points and calculates the potential token value based on predefined rates.
 
 ---
 
