@@ -60,7 +60,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Aero25x/orbiter-checker.git
+   git clone https://github.com/HiddenCodeDevs/hyperlane-checker.git
    cd hyperlane-checker
    ```
 
